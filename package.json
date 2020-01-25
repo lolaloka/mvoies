@@ -1,0 +1,29 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "movies search app, practice.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolaloka/mvoies.git"
+  },
+  "keywords": [
+    "movies",
+    "js",
+    "javascrip",
+    "html",
+    "css"
+  ],
+  "author": "mohammed samir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lolaloka/mvoies/issues"
+  },
+  "homepage": "https://github.com/lolaloka/mvoies#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
